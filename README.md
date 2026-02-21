@@ -2,6 +2,8 @@
 
 Client-only React prototype that demonstrates agent-native commerce workflows with experimental [WebMCP (Web Model Context Protocol)](https://webmcp.link/) .
 
+[DEMO](https://webmcp-ucp.web.app) 
+
 ![web-mcp-ucp](./screens/webmcp-ucp.png)
 
 The app works as a normal mini-shop for humans and also exposes structured tools to agents (when `navigator.modelContext` is available).
